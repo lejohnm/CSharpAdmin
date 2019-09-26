@@ -1,0 +1,153 @@
+{
+    "Products": [
+        {
+            "productType": "tops",
+            "productName": "Vlone Denim Jacket",
+            "productPrice": "$199.99",
+            "productDescription": "Black denim jacket with orange print",
+            "productImage": "https://d29obj2v81pk35.cloudfront.net/images/3bca0db6-54a9-4f55-a801-55528e15c035/large.jpg?v=63692002206"
+        },
+        {
+            "productType": "tops",
+            "productName": "Kaws x Uniqlo Tee",
+            "productPrice": "$49.99",
+            "productDescription": "Pink graphic tee",
+            "productImage": "http://d2lllwtzebgpl1.cloudfront.net/b69fe843d1d15e075ba6c4e249f7ab3a_listingImage1559782657243.jpg"
+        },
+        {
+            "productType": "tops",
+            "productName": "Kenzo Crewneck",
+            "productPrice": "$59.99",
+            "productDescription": "Black crewneck with multicolored logo",
+            "productImage": "https://media.endclothing.com/media/f_auto,q_auto:eco,w_400,h_400/prodmedia/media/catalog/product//1/7/17-05-2019_kenzo_tigerembroideredcrewsweat_black_f965sw0014xa-99_mb_1.jpg"
+        },
+        {
+            "productType": "tops",
+            "productName": "Supreme x Akira Tee",
+            "productPrice": "$99.99",
+            "productDescription": "Red supreme tee featuring visuals from Akira",
+            "productImage": "https://blvcks.com/wp-content/uploads/2018/04/B9B3516.jpg"
+        },
+        {
+            "productType": "tops",
+            "productName": "Bape Full Zip Hoodie",
+            "productPrice": "$299.99",
+            "productDescription": "Camouflage bathing ape full zip hoodie",
+            "productImage": "https://cdn.fs.grailed.com/api/file/KpnlrXbxQ3KPI3eXgs0u"
+        },
+        {
+            "productType": "tops",
+            "productName": "Off-White Impressionism Shirt",
+            "productPrice": "$149.99",
+            "productDescription": "Red longsleeve off-white shirt",
+            "productImage": "https://media.thedoublef.com/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/O/M/OMAB001R19185015_E_OFFW-2010.fronte.jpg"
+        },
+        {
+            "productType": "tops",
+            "productName": "Heron Preston Vest",
+            "productPrice": "$379.99",
+            "productDescription": "Black industrial vest with orange linning",
+            "productImage": "https://media.vrients.com/media/catalog/product/cache/7/image/1200x/602f0fa2c1f0d1ba5e241f914e856ff9/0/6/06393_nylon_tool_vest_jacket_black_vrients_vrnts_heron_preston_online_ss_19_1_1_1.jpg"
+        },
+        {
+            "productType": "tops",
+            "productName": "Dior Mosh Pit Sweater",
+            "productPrice": "$299.99",
+            "productDescription": "Black graphic sweater ",
+            "productImage": "http://www.depresionesreal.org/image/cache/data/category_16/17aw-new-christian-dior-men-mosh-pitsetabk-christian-dior-kurisutiyandeioru-31793996--17243-500x500_0.jpg"
+        },
+        {
+            "productType": "tops",
+            "productName": "Kith Classic Logo Tee",
+            "productPrice": "$49.99",
+            "productDescription": "New York Blue",
+            "productImage": "https://cdn.shopify.com/s/files/1/0094/2252/products/KHK3082-102_054_300x300.jpg?v=1565904898"
+        },
+        {
+            "productType": "bottoms",
+            "productName": "Number (N)ine Jeans",
+            "productPrice": "$99.99",
+            "productDescription": "Blue denim jeans with multicolor paint splatter",
+            "productImage": "https://process.fs.grailed.com/AJdAgnqCST4iPtnUxiGtTz/cache=expiry:max/rotate=deg:exif/resize=height:700,fit:scale/output=format:webp,quality:90/compress/https://cdn.fs.grailed.com/api/file/aJC6tA9SkyBivqTUCHaw"
+        },
+        {
+            "productType": "bottoms",
+            "productName": "Palm Angels Jogging Pants",
+            "productPrice": "$99.99",
+            "productDescription": "Purple polyester",
+            "productImage": "https://www.picclickimg.com/d/l400/pict/223485033854_/NWT-PALM-ANGELS-X-PLAYBOI-CARTI-Purple-Classic.jpg"
+        },
+        {
+            "productType": "bottoms",
+            "productName": "Evisu Sumo Jeans",
+            "productPrice": "$89.99",
+            "productDescription": "Blue japanese denim jeans",
+            "productImage": "http://themeglobal.com/opencart/eros/image/cache/data/eros/product6-228x228.jpg"
+        },
+        {
+            "productType": "bottoms",
+            "productName": "Chrome Hearts Sweatpants",
+            "productPrice": "$189.99",
+            "productDescription": "Black sweats with white graphics",
+            "productImage": "https://i.pinimg.com/originals/b9/b1/5f/b9b15fe9fe3671a3f61358cd7d8bf251.jpg"
+        },
+        {
+            "productType": "bottoms",
+            "productName": "Vivienne Westwood Trousers",
+            "productPrice": "$99.99",
+            "productDescription": "white/pink bandage trousers",
+            "productImage": "https://shop.r10s.jp/romanticneurosis/cabinet/vintage27/imgrc0075693287.jpg"
+        },
+        {
+            "productType": "bottoms",
+            "productName": "Ksubi x Travis Scott Jeans",
+            "productPrice": "$99.99",
+            "productDescription": "Light blue denim jeans",
+            "productImage": "https://cdn.lookastic.com/light-blue-ripped-jeans/x-travis-scott-stitched-up-chitch-jeans-original-8564920.jpg"
+        },
+        {
+            "productType": "bottoms",
+            "productName": "Calabasas Season 4 Joggers",
+            "productPrice": "$49.99",
+            "productDescription": "Burgandy joggers with red text",
+            "productImage": "https://i.pinimg.com/originals/cb/33/df/cb33dfcda6b349e8cb6a2d038e72d23a.jpg"
+        },
+        {
+            "productType": "shoes",
+            "productName": "Raf Simons Ozweego",
+            "productPrice": "$199.99",
+            "productDescription": "Pink Raf Simmon sneakers with chrome midsoles",
+            "productImage": "https://media.endclothing.com/media/catalog/product/2/1/21-05-2019_adidas_rafsimonsrsozweego_cpinksilvermet_ee7947_cw_1.jpg"
+        },
+        {
+            "productType": "shoes",
+            "productName": "Dior Sneakers",
+            "productPrice": "$499.99",
+            "productDescription": "Black Dior logo 'Oblique' sneakers",
+            "productImage": "https://res.cloudinary.com/fictive-kin/image/upload/v1/verygoods/prod/cdf272f4b7caab944e76f3bb5af6c5cfd929f67e"
+        },
+        {
+            "productType": "shoes",
+            "productName": "Air Fear of God 1",
+            "productPrice": "$399.99",
+            "productDescription": "Yellow hightop fear of god 1's",
+            "productImage": "https://images.solecollector.com/complex/image/upload/c_fill,dpr_auto,f_auto,fl_lossy,g_face,q_auto,w_1280/fqcosqlen7zrd94r78vv.jpg"
+        },
+        {
+            "productType": "shoes",
+            "productName": "Sean Weatherspoon Air Max 1",
+            "productPrice": "$299.99",
+            "productDescription": "Multicolored air max inspired by Sean Weatherspoon",
+            "productImage": "https://cdn.shopify.com/s/files/1/1853/3317/products/Nike-Air-Max-1-97-VF-SW-2-1024x1024_1024x1024.jpg?v=1520554676"
+        },
+        {
+            "productType": "shoes",
+            "productName": "Yeezy Boost 700",
+            "productPrice": "$199.99",
+            "productDescription": "Yeezy boost 700 'Tephora'",
+            "productImage": "https://mrsorted.co.uk/wp-content/uploads/2019/06/08-06-2019_yeezyboost_700v2_tephratephratephra_fu7914_mb_1.jpg"
+        }
+
+    
+    ]
+}
