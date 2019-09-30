@@ -14,7 +14,7 @@ class App extends React.Component {
   return (
     <div className="App">
       <Navbar onchange= {product => this.setState({activeproduct: product})}/>
-      <Products activeProduct={this.state.activeproduct} />
+      <Products activeproduct={this.state.activeproduct} />
       <Footer />
     </div>
   );
