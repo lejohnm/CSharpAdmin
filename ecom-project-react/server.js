@@ -1,17 +1,17 @@
 const express = require('express')
 const app = express();
 const mysql = require("mysql");
+require('dotenv').config();
 
 const PORT = process.env.PORT || 3002;
 
-app.use(express.json());
-
+// app.use(express.json());
 
 //db connection
 var connection = mysql.createConnection({
     host: "localhost",
     // db port
-    port: 3002,
+    port: 3306,
     user: "root",
     password: process.env.MYPASSWORD,
     database: "ecommerce"
@@ -27,18 +27,19 @@ var connection = mysql.createConnection({
 // })
 
 
-app.get('/products', (req, res) => {
-    //connect to db
-    connection.getConnection(function (err, connection) {
-    connection.query("SELECT * FROM products", function (err, results, fields) {
-        if (error) throw error;
-   res.send(results)
-    })
+app.get('/api/products', (req, res) => {
+    //PULL IN PRODUCTS
+   
+    connection.query("SELECT * FROM products", (err, data) => {
+        if (err) res.status(403).send(err);
+   res.json(data)
     })
 
-    // res.send(test);
+    
 });
+
+//LISTENER SET TO PORT 3002
 app.listen(3002, () => {
-    console.log('Go to http://localhost:3002/users');
+    console.log('SERVER RUNNING...');
 })
 
